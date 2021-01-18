@@ -1,3 +1,3 @@
 # oop2
-nara 
+nara dan
 qirani
